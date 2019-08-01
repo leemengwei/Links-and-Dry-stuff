@@ -5,7 +5,7 @@ Links to other site
 
 网站 https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247486773&idx=2&sn=dbf4fa6f02da1b3fb5a44dab6c136c66&chksm=96f37f61a184f6777bac56a51bab6e3e900742dca318ef61132b20f8e85c3ea11bbfa8d76907&mpshare=1&scene=1&srcid=0510PoM6izYXjekeMNWYdYih&pass_ticket=CbK6XwF5F%2BO7VgiDEHVZsBIdqTD6UDvKMMZjsArEWeADYsuICT9lHc8BmAWIXqBu#rd涵盖内容链接：
 
-"我爱计算机视觉"干货集锦分类汇总
+（"我爱计算机视觉"分类汇总）
 目标检测
 文本检测与识别
 语义分割
